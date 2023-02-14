@@ -1,0 +1,26 @@
+name: "Ming Senn Teo"                                 
+output_dir: "."
+navbar:
+  title: "Ming Senn Teo"                             
+  type: inverse
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "About"
+      icon: fa-user 
+      href: about.html
+    - text: "CV"
+      icon: fa-file-pdf-o
+      href: cv.html
+  right:
+    - text: "Contact me"
+      icon: fa-envelope-o fa
+      href: mailto:mingsennteo@berkeley.edu                    
+    - text: "GitHub"
+      icon: fa-github fa
+      href: https://github.com/MSTeo01       
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
