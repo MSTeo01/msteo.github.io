@@ -22,5 +22,7 @@ navbar:
       href: https://github.com/MSTeo01       
 output:
   html_document:
-    theme: cosmo
+    theme: readable
     highlight: textmate
+    lib_dir : site_libs
+    self_contained: no
