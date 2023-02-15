@@ -7,7 +7,7 @@ document.title = "Ming Senn Teo"
 ```
 
 ```{r, out.width="100%", echo=FALSE}
-knitr::include_graphics("Pic.jpg")
+knitr::include_graphics("Pic.JPG")
 ```
 
 ## Ming Senn Teo
