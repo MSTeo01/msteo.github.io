@@ -9,4 +9,4 @@ document.title = "Ming Senn Teo"
 ## Ming Senn Teo
 ### DS @ UC Berkeley
 
-Hi! I'm Ming Senn, a current undergrad student at UC Berkeley, California. I dedicate my time in fiddling with data, creating data visualizations and passionate about climate.
+Hi! I'm Ming Senn, a current undergrad student at UC Berkeley, California. I dedicate my time into fiddling with data - especially climate and public health areas - to visualize impacts to bring more awareness of climate change and healthcare.
