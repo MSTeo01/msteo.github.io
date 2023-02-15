@@ -7,10 +7,10 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "About"
+    - text: "Projects"
       icon: fa-user 
       href: about.html
-    - text: "CV"
+    - text: "Resume"
       icon: fa-file-pdf-o
       href: https://docs.google.com/document/d/1laZB935c4CFHYRffg4BDmahkLzfhLBQLzCIWJ81t824/export?format=pdf
   right:
