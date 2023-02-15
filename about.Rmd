@@ -5,4 +5,5 @@ title: "Projects"
 ### Time Series Analysis on California's AQI
 
 Effects of COVID-19 lockdown on California's AQI trends.
+<br>
 [Github](https://github.com/MSTeo01/Time-Series-Analysis-on-the-Effect-of-COVID-on-California-Air-Quality-Index)
