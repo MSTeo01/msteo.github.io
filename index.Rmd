@@ -6,10 +6,7 @@ output: html_document
 document.title = "Ming Senn Teo"
 ```
 
-```{r, out.width="30%", echo=FALSE}
-knitr::include_graphics("Pic.JPG")
-```
-
 ## Ming Senn Teo
+### DS @ UC Berkeley
 
-Hi, I'm a student studying Data Science at UC Berkeley who loves fiddling with data, creating data visualizations and passioniate about climate.
+Hi! I'm Ming Senn, a current undergrad student at UC Berkeley, California. I dedicate my time in fiddling with data, creating data visualizations and passionate about climate.

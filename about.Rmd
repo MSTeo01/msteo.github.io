@@ -1,7 +1,8 @@
 ---
-title: "About me"
+title: "Projects"
 ---
 
-## Header
+### Time Series Analysis on California's AQI
 
-Say more about you here.
+Effects of COVID-19 lockdown on California's AQI trends.
+[Github](https://github.com/MSTeo01/Time-Series-Analysis-on-the-Effect-of-COVID-on-California-Air-Quality-Index)
