@@ -1,5 +1,15 @@
 ---
-title: "Welcome to my website!"
+output: html_document
 ---
 
-You're up and running!
+```{js, echo = FALSE}
+document.title = "Ming Senn Teo"
+```
+
+```{r, out.width="100%", echo=FALSE}
+knitr::include_graphics("Pic.JPG")
+```
+
+## Ming Senn Teo
+
+Hi, I'm a student studying Data Science at UC Berkeley who loves fiddling with data, creating data visualizations and passioniate about climate.
